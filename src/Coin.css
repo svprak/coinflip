@@ -1,0 +1,9 @@
+.Coin {
+  /* background-color: lightblue; */
+  margin-top: 50px;
+  padding-top: 5px;
+}
+.Coin img {
+  width: 200px;
+  height: 200px;
+}
